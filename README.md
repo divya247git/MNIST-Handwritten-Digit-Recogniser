@@ -23,6 +23,8 @@ The model is trained on the MNIST dataset containing 70,000 images of handwritte
 
 ---
 
+<img width="887" height="523" alt="image" src="https://github.com/user-attachments/assets/e35a031d-e895-4497-bade-8c8e304f5379" />
+
 ## 🛠️ Technologies Used
 
 - Python 3
@@ -90,17 +92,21 @@ Output Layer (10 neurons, Softmax)
 
 ### Training Accuracy
 
-![Training Accuracy](images/training_accuracy.png)
+<img width="532" height="343" alt="image" src="https://github.com/user-attachments/assets/1e6abb97-331e-4b2c-9546-8631b25bc156" />
+
 
 ### Training Loss
 
-![Training Loss](images/training_loss.png)
+<img width="525" height="343" alt="image" src="https://github.com/user-attachments/assets/54e1e930-17fd-4656-9a0d-9dc06068dbbd" />
+
 
 > Replace the image paths above with your actual screenshots after uploading them to GitHub.
 
 ---
 
 ## 🔍 Sample Predictions
+
+
 
 | Actual Digit | Predicted Digit |
 |--------------|------------------|
@@ -110,7 +116,9 @@ Output Layer (10 neurons, Softmax)
 | 5 | 5 |
 | 8 | 8 |
 
-Example prediction output:
+Example prediction output: 
+<img width="1090" height="558" alt="image" src="https://github.com/user-attachments/assets/611d1899-58d6-4734-8bca-ce8daebb8e31" />
+
 
 ```text
 Actual: 7
@@ -257,7 +265,7 @@ Through this project, I learned:
 B.Tech CSE (AI & Deep Learning)  
 Mody University
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/divya247git
 
 ---
 
